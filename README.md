@@ -1,7 +1,9 @@
 Hello
 
 I’m currently studying an Msc in Computer Science at the University of Birmingham
+
 I’m currently learning Python, C#
+
 📫 How to reach me: Francesca.Hannay1997@outlook.com
 
 <!--
