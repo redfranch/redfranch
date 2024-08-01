@@ -2,9 +2,7 @@ Hello
 
 I’m currently studying an Msc in Computer Science at the University of Birmingham
 
-I’m currently learning C#
-
-Languages I use Python, SQL, HTML, CSS
+Languages I use Python (Flask, Pandas, Matplotlib), SQL, HTML, CSS, C#
 
 📫 How to reach me: Francesca.Hannay1997@outlook.com
 
