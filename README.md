@@ -1,6 +1,6 @@
 Hello
 
-I’m currently studying an Msc in Computer Science at the University of Birmingham
+Research Analyst @ Ofcom || Computer Science MSc (with distinction)
 
 Languages I use Python (Flask, Pandas, Matplotlib), SQL, HTML, CSS, C#
 
