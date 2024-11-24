@@ -2,7 +2,7 @@ Hello
 
 Research Analyst @ Ofcom || Computer Science MSc (with distinction)
 
-Languages I use Python (Flask, Pandas, Matplotlib), SQL, HTML, CSS, C#
+Languages I use Python (Flask, Pandas, Matplotlib), SQL, HTML, CSS, C#, Solidity
 
 📫 How to reach me: Francesca.Hannay1997@outlook.com
 
